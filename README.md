@@ -1,7 +1,7 @@
 Ved Store Annual Sales Report (2024) - Data Analysis and Insights
 
 Objective:
-The primary objective of this analysis is to create an annual sales report for Ved Store for the year 2024. This report aims to provide a detailed understanding of customer behavior, sales trends, and order dynamics, enabling the store to make data-driven decisions to optimize sales and customer engagement strategies for the upcoming year.
+The objective of this analysis is to create a comprehensive Annual Sales Report for Ved Store for 2024, offering insights into sales performance, customer behavior, and order trends. The report will address key questions, including comparing sales and orders, identifying the month with the highest sales, analyzing purchases by gender, exploring different order statuses, and listing the top states contributing to sales. Additionally, it will examine the relationship between age and gender, evaluate the effectiveness of sales channels, and identify the highest-selling product categories. The findings will help Ved Store make data-driven decisions to refine sales strategies and drive growth in 2025.
 
 Data Cleaning and Preprocessing:
 Data cleaning and preprocessing were the first steps in ensuring that the analysis provided meaningful insights. The following actions were performed:
