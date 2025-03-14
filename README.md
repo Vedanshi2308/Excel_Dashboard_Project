@@ -1,7 +1,7 @@
-Ved Store Annual Sales Report (2024) - Data Analysis and Insights
+ EliteMart Annual Sales Report (2024) - Data Analysis and Insights
 
 Objective:
-The objective of this analysis is to create a comprehensive Annual Sales Report for Ved Store for 2024, offering insights into sales performance, customer behavior, and order trends. The report will address key questions, including comparing sales and orders, identifying the month with the highest sales, analyzing purchases by gender, exploring different order statuses, and listing the top states contributing to sales. Additionally, it will examine the relationship between age and gender, evaluate the effectiveness of sales channels, and identify the highest-selling product categories. The findings will help Ved Store make data-driven decisions to refine sales strategies and drive growth in 2025.
+The objective of this analysis is to create a comprehensive Annual Sales Report for EliteMart for 2024, offering insights into sales performance, customer behavior, and order trends. The report will address key questions, including comparing sales and orders, identifying the month with the highest sales, analyzing purchases by gender, exploring different order statuses, and listing the top states contributing to sales. Additionally, it will examine the relationship between age and gender, evaluate the effectiveness of sales channels, and identify the highest-selling product categories. The findings will help Ved Store make data-driven decisions to refine sales strategies and drive growth in 2025.
 
 Data Cleaning and Preprocessing:
 Data cleaning and preprocessing were the first steps in ensuring that the analysis provided meaningful insights. The following actions were performed:
@@ -93,4 +93,4 @@ Target Women Customers (Age 20-49): Focus on women in the age group of 20-49 yea
 Leverage E-commerce Platforms: Continue and expand marketing efforts on platforms like Amazon, Flipkart, and Myntra, which were the highest-performing sales channels in 2024.
 Personalized Offers & Promotions: Tailor ads, offers, and coupons for the targeted customer segments to enhance engagement and drive conversions.
 
-By implementing these recommendations, Ved Store can strategically target its customer base and further drive growth and sales in the upcoming year.
+By implementing these recommendations, EliteMart can strategically target its customer base and further drive growth and sales in the upcoming year.
